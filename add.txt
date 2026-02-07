@@ -1,1 +1,2 @@
 This is to understand the pull concept from repo.
+adding second line to understand the stash concept.
